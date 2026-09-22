@@ -10,6 +10,8 @@ features and used different charts to understand the patterns.
 Dataset used:
 https://www.kaggle.com/c/titanic/data
 
+
+
 ## What I Did
 
 - Checked the dataset structure and missing values

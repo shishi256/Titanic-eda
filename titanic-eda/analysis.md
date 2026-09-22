@@ -5,7 +5,7 @@ including their age, gender, passenger class, fare and survival
 status. Some columns contain missing values, so I will clean them
 before starting the analysis.
 
-## Age Distribution
+## Age Distribution of passengers
 The age distribution shows that most passengers were adults or
 young adults. There were fewer passengers at the very low and
 very high age ranges.
